@@ -1,0 +1,28 @@
+@media screen{
+}
+body {
+}
+#meniu ul li {
+    display: inline;
+}
+
+
+
+body header {
+    background-color: #E76668;
+}
+#meniu ul li {
+}
+#meniu ul li {
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+#ul li {
+    color: #C1D817;
+}
+ul li a {
+    color: #BCB11E;
+}
+ul li a {
+    color: #E7E7E7;
+}

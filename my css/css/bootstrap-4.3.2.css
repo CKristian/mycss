@@ -1,0 +1,46 @@
+
+
+
+
+@media (min-width: 540px) and (max-width: 576px) {
+  .container1 {
+    
+	display: block;
+  }
+	img:not(.container1){
+		display: none;
+	}
+}
+
+@media (min-width: 720px) and (max-width: 762px) {
+  .container2 {
+    
+	display: block;  
+  }
+	img:not(.container2){
+		display: none;
+	}
+}
+
+@media (min-width: 960px) and (max-width: 992px){
+  .container3 {
+    
+	  display: block; 
+  }
+	img:not(.container3){
+		display: none;
+	}
+}
+
+@media (min-width: 993px) {
+  .container4 {
+   
+	  display: block; 
+  }
+	img:not(.container4){
+		display: none;
+	}
+}
+
+
+
